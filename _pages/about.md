@@ -12,7 +12,7 @@ All of my computers run FreeBSD, OpenBSD, or Windows7
 
 My main laptops:
 
-### Thinkpad X220 running OpenBSD
+### Lenovo Thinkpad X220
 * OS: OpenBSD 6.6
 * Kernel:
 * Shell: 
