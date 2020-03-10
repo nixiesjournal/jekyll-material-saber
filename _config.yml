@@ -8,16 +8,10 @@ url: ""
 # Build settings
 markdown: kramdown
 
-twitterUsername:
-gthubUsername:
+twitterUsername: nixiesjournal
+gthubUsername: nixiesjournal
 
-social:
-  github: 
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
+
 
 themeColor: default
 fixedNav: 'true'
