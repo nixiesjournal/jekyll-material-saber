@@ -11,6 +11,14 @@ markdown: kramdown
 twitterUsername:
 gthubUsername:
 
+social:
+  github: 
+  stackoverflow: ''
+  linkedin:
+  instagram: ''
+  lastfm: ''
+  rss: feed.xml
+
 themeColor: default
 fixedNav: 'true'
 
